@@ -1,4 +1,4 @@
-![cisco](http://https://github.com/PhyoHtetSoe/PhyoHtetSoe/blob/main/cisco1.png)
+![cisco](http://github.com/PhyoHtetSoe/PhyoHtetSoe/blob/main/cisco1.png)
 <h1 align="center">Hi 👋, I'm Phyo Htet Soe</h1>
 <h3 align="center">Network Engineer</h3>
 
